@@ -1,4 +1,4 @@
-# ValidatesNotShouting
+# ValidatesNotShouting [![Build Status](https://travis-ci.org/avvo/validates_not_shouting.png)](https://travis-ci.org/avvo/validates_not_shouting) [![Code Climate](https://codeclimate.com/github/avvo/validates_not_shouting.png)](https://codeclimate.com/github/avvo/validates_not_shouting) [![Code Coverage](https://codeclimate.com/github/avvo/validates_not_shouting/coverage.png)](https://codeclimate.com/github/avvo/validates_not_shouting)
 
 To prevent noobs from being uber noobs.
 
