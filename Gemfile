@@ -13,3 +13,5 @@ else
 end
 
 gem "activesupport", am_version
+
+gem "codeclimate-test-reporter", group: :test, require: nil
