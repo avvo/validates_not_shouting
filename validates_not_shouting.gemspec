@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = ValidatesNotShouting::VERSION
   spec.authors       = ["Jeff Ching"]
   spec.email         = ["jching@avvo.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = "To prevent noobs from being uber noobs"
+  spec.description   = "To prevent noobs from being uber noobs"
   spec.homepage      = ""
   spec.license       = "MIT"
 
