@@ -38,7 +38,7 @@ end
 
 You can set the message and threshold as configuration for the validator. The default threshold is 0.5 (half of the characters).
 
-    validates :foo, not_shouting: {threshold: 0.1, message: 'cannot by so shouty.'}
+    validates :foo, not_shouting: {threshold: 0.1, message: 'cannot be so shouty.'}
 
 ## Contributing
 
